@@ -1,0 +1,33 @@
+{
+	"name"        : "ruslant/simpleimage",
+	"description" : "A PHP class that simplifies working with images",
+	"license"     : [
+		"MIT"
+	],
+	"require"     : {
+		"php" : ">=5.3.0"
+	},
+	"authors"     : [
+		{
+			"name"     : "Ruslan Tosltov",
+			"homepage" : "https://github.com/userua/simpleimage",
+			"role"     : "Developer"
+		},
+		{
+			"name"     : "Ruslan Tolstov",
+			"email"    : "bizzstart@gmail.com",
+			"homepage" : "https://github.com/userua/simpleimage",
+			"role"     : "Developer"
+		}
+	],
+	"autoload"    : {
+		"psr-0" : {
+			"ruslant" : "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "2.5-dev"
+		}
+	}
+}
