@@ -1,4 +1,5 @@
 <?php
+namespace ruslant;
 class SimpleImage {
 
     var $image;
